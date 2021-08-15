@@ -1,0 +1,17 @@
+---
+title: "Poster"
+description: |
+  The poster of project shows below.
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](Poster.png)
+
+
+
+

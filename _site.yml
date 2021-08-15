@@ -1,0 +1,18 @@
+name: "Group11"
+title: "Group11 Project Website"
+description: |
+  Group11 Project Website
+output_dir: "_site"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Proposal"
+      href: Group-Project-Proposal.html
+    - text: "Poster"
+      href: Poster.html
+    - text: "Research Paper"
+      href: .html
+output: distill::distill_article
