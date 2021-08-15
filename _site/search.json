@@ -6,7 +6,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-08-16T02:14:41+08:00"
+      "last_modified": "2021-08-16T02:18:38+08:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,7 @@
       "description": "The research uses transaction and movement data of employees within a 2-week timespan between January 5th to January 19th, 2014.  In general, people would only use tables, maps or GIS to deal with the geospatial and transaction data, some professionals may employ coding language, which do not have interactive functions and hard to learn in a short time. Hence, a Shiny application is provided for those people who are interested in geospatial data analysis but have less knowledge in programming. The research will use a case from VAST challenge 2021, we aim to help identify suspicious movements and behaviour in the data as well as demonstrate that this application is easy to learn and can be used in similar cases. \n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-08-16T02:14:43+08:00"
+      "last_modified": "2021-08-16T02:18:39+08:00"
     },
     {
       "path": "Poster.html",
@@ -23,7 +23,7 @@
       "author": [],
       "date": "`r Sys.Date()`",
       "contents": "\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-08-16T02:14:45+08:00"
+      "last_modified": "2021-08-16T02:18:40+08:00"
     }
   ],
   "collections": []
