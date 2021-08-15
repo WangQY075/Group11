@@ -14,5 +14,5 @@ navbar:
     - text: "Poster"
       href: Poster.html
     - text: "Research Paper"
-      href: .html
+      href: https://github.com/ISSS608-G1-Group11/ISSS608_Group_Project/blob/master/Research%20Paper/Research-Paper.pdf
 output: distill::distill_article
