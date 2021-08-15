@@ -7,8 +7,6 @@ navbar:
   right:
     - text: "Abstract"
       href: index.html
-    - text: "About"
-      href: about.html
     - text: "Proposal"
       href: Group-Project-Proposal.html
     - text: "Poster"
