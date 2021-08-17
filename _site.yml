@@ -15,4 +15,8 @@ navbar:
       href: https://github.com/ISSS608-G1-Group11/ISSS608_Group_Project/blob/master/Research%20Paper/Research-Paper.pdf
     - text: "User Guide"
       href: https://github.com/ISSS608-G1-Group11/ISSS608_Group_Project/blob/master/User%20Guide.pdf      
+    - text: "Shiny App"
+      href: https://ryun.shinyapps.io/ShinyLayout/
+
 output: distill::distill_article
+
